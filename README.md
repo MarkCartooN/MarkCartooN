@@ -6,11 +6,11 @@
 MarkCN is at the forefront of the next generation in the tech and finance sectors, seamlessly blending innovation and practicality to provide top-notch services. Our mission is to revolutionize the way individuals and businesses interact with technology, offering tailored solutions that meet the evolving demands of the modern world..
 ---
 * [0G](https://testnet.0g.explorers.guru/validator/0gvaloper1amnfppsvrdmqnpfz6g6zgvqlclr3n8euqvdwgh) (my [guide](https://markcn.notion.site/0G-labs-b4eb82496c394ae09da524f7787d4f2e))
-* [Side](https://markcn.notion.site/Side-Protocol-4a9fd5d0d983410aa1cd694d8f0ac5f4)
-* [LAVA](https://lava.explorers.guru/validator/lava@valoper1evhqt0l7z60f0cee9xz3u86g9v2fatexvfpt5p)
-* [Babylon](https://github.com/babylonchain/networks/pull/298)
-* [Xfiscan](https://test.xfiscan.com/validators/mxvaloper1zaf2t6ud3q72w6m3054krkjf53qz2uxrj8trwd)
-* [Dymension](https://devnet.dymension.xyz/rollapp/markcn_8353858-1/metrics)
+* [Side](https://markcn.notion.site/Side-Protocol-4a9fd5d0d983410aa1cd694d8f0ac5f4) (my [guide](https://markcn.notion.site/Side-Protocol-4a9fd5d0d983410aa1cd694d8f0ac5f4))
+* [LAVA](https://lava.explorers.guru/validator/lava@valoper1evhqt0l7z60f0cee9xz3u86g9v2fatexvfpt5p) (my [guide](https://markcn.notion.site/Lava-ee98b2b4ffb246d7a994bf6642b94740))
+* [Babylon](https://github.com/babylonchain/networks/pull/298) (my [guide](https://markcn.notion.site/Babylon-0853b7997fb844f38ea831339ff73813))
+* [Xfiscan](https://test.xfiscan.com/validators/mxvaloper1zaf2t6ud3q72w6m3054krkjf53qz2uxrj8trwd) (my [guide](https://markcn.notion.site/xfiscan-42c847b47eb944a7b06e759bc8be5da1))
+* [Dymension](https://devnet.dymension.xyz/rollapp/markcn_8353858-1/metrics) (my [guide](https://markcn.notion.site/Dymension-b84277c081c542548e0e3f57a72599a3))
 ---
 ### What We Do 👇
 
