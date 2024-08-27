@@ -5,6 +5,8 @@
 
 MarkCN is at the forefront of the next generation in the tech and finance sectors, seamlessly blending innovation and practicality to provide top-notch services. Our mission is to revolutionize the way individuals and businesses interact with technology, offering tailored solutions that meet the evolving demands of the modern world..
 ---
+* [Cysic]() (my [guide](https://markcn.notion.site/Cysic-f50ee9b5b5014a39a4eee8686fdc95f1))
+* [Ritual]() (my [guide](https://markcn.notion.site/Ritual-b62b51f1e72b40bfafb630dd8ebf8c56))
 * [0G](https://testnet.0g.explorers.guru/validator/0gvaloper1amnfppsvrdmqnpfz6g6zgvqlclr3n8euqvdwgh) (my [guide](https://markcn.notion.site/0G-labs-b4eb82496c394ae09da524f7787d4f2e))
 * [Side](https://markcn.notion.site/Side-Protocol-4a9fd5d0d983410aa1cd694d8f0ac5f4) (my [guide](https://markcn.notion.site/Side-Protocol-4a9fd5d0d983410aa1cd694d8f0ac5f4))
 * [LAVA](https://lava.explorers.guru/validator/lava@valoper1evhqt0l7z60f0cee9xz3u86g9v2fatexvfpt5p) (my [guide](https://markcn.notion.site/Lava-ee98b2b4ffb246d7a994bf6642b94740))
